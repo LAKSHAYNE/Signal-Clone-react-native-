@@ -2,4 +2,4 @@
 ## Deployed at 
 https://signal-clone-f2253.web.app/
 ## Standalone app at(for android)
-https://forums.expo.io/t/expo-dies-every-few-minutes-with-error-read-econnreset/20095
+https://expo.io/artifacts/d2644cd3-43eb-4b6c-9f10-a61a8e0dee5f
